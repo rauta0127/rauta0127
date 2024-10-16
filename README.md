@@ -4,8 +4,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauta0127&theme=tokyonight)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauta0127&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rauta0127&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauta0127&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rauta0127&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
 
 <!--
