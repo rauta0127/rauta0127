@@ -1,8 +1,13 @@
 ## Hi there 👋
+🔭 I’m currently working as DataScientist, Machine Learning Engineer @Tokyo
 
-- 🔭 I’m currently working on DataScientist, Machine Learning Engineer
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauta0127&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rauta0127&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauta0127&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rauta0127&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **rauta0127/rauta0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
