@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on DataScientist, Machine Learning Engineer
+- 🌱 I’m currently learning All
+
 <!--
 **rauta0127/rauta0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
