@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on DataScientist, Machine Learning Engineer
-- 🌱 I’m currently learning All
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauta0127&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rauta0127/rauta0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
